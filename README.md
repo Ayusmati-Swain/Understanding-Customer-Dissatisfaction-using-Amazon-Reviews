@@ -69,10 +69,6 @@ These findings help explain the major drivers of customer dissatisfaction.
 
 project-folder/
 
-## Project Structure
-
-project-folder/
-
 │── data/
 
 │   └── Amazon_Reviews.csv
